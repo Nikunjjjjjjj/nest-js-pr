@@ -1,0 +1,6 @@
+UserID,Name,Email,AttendanceStatus,
+101,Alice,alice@example.com,Present,
+102,Bob,bob@example.com,Absent,
+103,Charlie,charlie@example.com,Present,
+104,Diana,diana@example.com,Present,
+105,Riya,alice@example.com,Absent,
