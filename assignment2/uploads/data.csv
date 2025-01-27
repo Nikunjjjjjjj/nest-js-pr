@@ -1,0 +1,7 @@
+items,required,actual,result
+vitamin a,101,344,excess
+vitamin b,45,59,ok
+colestrol,80,,ok
+sugar,79,89,deficeny
+calcium,500,400,
+bp,110-120,119,ok
